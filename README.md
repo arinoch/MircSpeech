@@ -18,7 +18,7 @@ Simpley run the new install file, and everything should work fine.  If it doesn'
 
 INSTALLING
 
-To install mircspeech, click on mircspeechinstaller.exe and follow the directions.  
+To install mircspeech, click on mircspeechinstaller.exe and follow the directions.  If you haven't installed this program before, it may tell you it's missing MSWINSCK.OCX. You can download it from this repository, as I have absolutely no idea where else you can get it in 2026.
 
 SETUP
 
@@ -51,17 +51,6 @@ Other Unintended uses
 
 Mircspeech also works well with qotd, time and finger servers.  It's faster and smaller than most telnet programs.  As an example, enter quote.cbk.net as the host, and 17 as the port and click connect.  Jfw will now read out a quote from quote.cbk.net.  Be sure to press disconnect before connecting to something else.  
 
-Known Bugs
+Bugs
 
-For known mircspeech issues and how to fix them, visit:
-http://proulx.servebeer.com/programs/mircspeech/troubleshoot
-
-SUPPORT
-
-If you have any problems, email samuel@proulx.servebeer.com outlining the problem.  I won't promise that I can help, but I'll do my best.  Before emailing, please, please, please read over the troubleshooting website listed above.  Thank you!  
-
-OFFICIAL MIRCSPEECH IRC CHANNEL (NOTE: NO LONGER FUNCTIONAL)
-
-If you have questions about mircspeech, want to talk to other mircspeech users, etc, connect your mIRC program to:
-irc.andrelouis.dns2go.com
-and join #mircspeech.  If nobody is around, just idel for a while.  Someone is sure to show up sooner or later. :-)
+This program is at least 16 years old. There will be bugs. This program is no longer maintained. They are unlikely to be fixed. Install at your own risk.
